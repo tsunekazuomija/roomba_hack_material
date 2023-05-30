@@ -8,4 +8,4 @@
     - [1-2.md](chapter1/1-2.md) ROSの概要
 
 - [chips](chips)
-    - [chip1](chip1.md) pythonコードの読み方
+    - [chip1.md](chips/chip1.md) pythonコードの読み方
