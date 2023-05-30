@@ -7,7 +7,7 @@
 ## Hands-on
 
 ### 1. ROSのソースコードを見つける
-- roomba_hackで使うソースコードはhttps://github.com/matsuolab/roomba_hackに置いてある。  
+- roomba_hackで使うソースコードは https://github.com/matsuolab/roomba_hack に置いてある。  
 - その中の catkin_ws/src/ 以下に、ROSのソースコードが置いてある。
 - 今回は、catkin_ws/src/navigation_tutorial/scripts/simple_control2.py を読んでみる。  
 
